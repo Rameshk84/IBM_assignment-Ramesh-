@@ -1,11 +1,11 @@
 
-*These are all the steps that i followed to make this assignement* 
+*These are all the steps that i followed to make this assignment* ✔👩🏻‍💻 
 
-**1. Configure your Git with your name and email:** <br>
+**1. Configure your Git with your name and email:** <br> 📧 🤷‍♂️
 Command to set the username and email globally: 
 git config --global user.name "Rameshk84" <br>
 git config --global user.email "karamesh410@gmail.com"
-
+ 
 **2. Clone the project repository from GitHub:** <br>
 Command to clone the repository from the given URL: <br>
 git clone https://github.com/Rameshk84/IBM_assignment-Ramesh-.git
