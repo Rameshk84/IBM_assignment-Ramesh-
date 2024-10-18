@@ -2,44 +2,44 @@
 *These are all the steps that i followed to make this assignement* 
 
 **1. Configure your Git with your name and email:** <br>
-Command to set the username and email globally:
-git config --global user.name "Rameshk84"
+Command to set the username and email globally: 
+git config --global user.name "Rameshk84" <br>
 git config --global user.email "karamesh410@gmail.com"
 
 **2. Clone the project repository from GitHub:** <br>
-Command to clone the repository from the given URL:
+Command to clone the repository from the given URL: <br>
 git clone https://github.com/Rameshk84/IBM_assignment-Ramesh-.git
 
 **3. Create a new feature branch:** <br>
-Command to create and switch to a branch called new-feature:
+Command to create and switch to a branch called new-feature:<br>
 git checkout -b new-feature
 
 
 **4. Add a new file called feature.py to your branch:** <br>
-Command to stage the new file feature.py:
+Command to stage the new file feature.py: <br>
 git add feature.py
 
 **5. Commit your changes with a message:** <br>
-Command to commit your staged changes with the message "Add new feature implementation":
+Command to commit your staged changes with the message "Add new feature implementation": <br>
 git commit -m "Add new feature implementation"
 
 
 **7. Push your changes to the remote repository:** <br>
-Command to push the changes in the new-feature branch to the remote repository:
+Command to push the changes in the new-feature branch to the remote repository: <br>
 git push origin new-feature
 
 
 **7. Pull the latest changes from the main branch:** <br>
-Command to pull the latest changes from the main branch of the remote repository:
+Command to pull the latest changes from the main branch of the remote repository: <br>
 git pull origin main
 
 
 **9. Remove the feature.py file from your branch:** <br>
-Command to remove feature.py from your repository:
+Command to remove feature.py from your repository: <br>
 git rm feature.py
 
 **9. Commit the removal of the file and push the changes:** <br>
-Commands to commit the removal and push the changes to the remote repository:
+Commands to commit the removal and push the changes to the remote repository:<br>
 git commit -m "Remove feature.py file"
 git push origin new-feature
 
