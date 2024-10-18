@@ -24,7 +24,7 @@ Command to commit your staged changes with the message "Add new feature implemen
 git commit -m "Add new feature implementation"
 
 
-**7. Push your changes to the remote repository:** <br>
+**6. Push your changes to the remote repository:** <br>
 Command to push the changes in the new-feature branch to the remote repository: <br>
 git push origin new-feature
 
@@ -34,7 +34,7 @@ Command to pull the latest changes from the main branch of the remote repository
 git pull origin main
 
 
-**9. Remove the feature.py file from your branch:** <br>
+**8. Remove the feature.py file from your branch:** <br>
 Command to remove feature.py from your repository: <br>
 git rm feature.py
 
@@ -42,6 +42,13 @@ git rm feature.py
 Commands to commit the removal and push the changes to the remote repository:<br>
 git commit -m "Remove feature.py file"
 git push origin new-feature
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 
